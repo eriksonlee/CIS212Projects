@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeList>
+    <Employee>
+        <Id>ABC123</Id>
+        <FirstName>Fred</FirstName>
+        <LastName>Flintstone</LastName>
+        <HourlyRate>21.29</HourlyRate>
+    </Employee>
+    <Employee>
+        <Id>WER567</Id>
+        <FirstName>Betty</FirstName>
+        <LastName>Rubble</LastName>
+        <HourlyRate>25.59</HourlyRate>
+    </Employee>
+    <Employee>
+        <Id>ASD556</Id>
+        <FirstName>Wilma</FirstName>
+        <LastName>Flintstone</LastName>
+        <HourlyRate>20.50</HourlyRate>
+    </Employee>
+    <Employee>
+        <Id>KJH875</Id>
+        <FirstName>Barney</FirstName>
+        <LastName>Rubble</LastName>
+        <HourlyRate>21.22</HourlyRate>
+    </Employee>
+</EmployeeList>
